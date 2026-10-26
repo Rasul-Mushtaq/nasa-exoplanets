@@ -8,7 +8,7 @@
 ![seaborn](https://img.shields.io/badge/seaborn-2b3b4b?style=for-the-badge&logo=seaborn&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Selection bias in the NASA exoplanet catalog.
+### Selection bias in the NASA exoplanet catalog.
 
 Every planet in the catalog was found by a specific method, and every method has blind spots. The transit method only works when a planet's orbit lines up with our line of sight. The radial velocity method favors heavy planets orbiting close to bright, quiet stars. In this notebook I measured how much those biases shape the catalog, corrected for one of them, and looked at which small planets in the habitable zone we have actually found so far.
 
