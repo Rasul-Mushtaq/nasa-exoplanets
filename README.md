@@ -1,5 +1,13 @@
 # What the Telescopes Cannot See
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-2b3b4b?style=for-the-badge&logo=seaborn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 Selection bias in the NASA exoplanet catalog.
 
 Every planet in the catalog was found by a specific method, and every method has blind spots. The transit method only works when a planet's orbit lines up with our line of sight. The radial velocity method favors heavy planets orbiting close to bright, quiet stars. In this notebook I measured how much those biases shape the catalog, corrected for one of them, and looked at which small planets in the habitable zone we have actually found so far.
